@@ -1,7 +1,10 @@
+*.sv.bak
 *\**\*.bak
+*\**\*\*.bak
 *\**\*.qdb
 *\**\*.qpg
 *\**\*.qtl
 *\**\*.wlf
 *\**\*.vstf
 \work
+wlf*
